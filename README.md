@@ -1,0 +1,2 @@
+# animatedTextGitDemo
+Hello Color changing
